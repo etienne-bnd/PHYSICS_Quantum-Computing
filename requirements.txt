@@ -1,0 +1,21 @@
+# --- Noyau Quantique (Changements majeurs en 2024-2025) ---
+qiskit>=1.0.0
+qiskit-aer>=0.15.0
+qiskit-ibm-runtime>=0.30.0
+
+# --- Math & Science ---
+# NumPy 2.0 a introduit des changements de rupture, on le précise
+numpy>=2.0.0
+scipy>=1.14.0
+sympy>=1.13.0
+pandas>=2.2.0
+
+# --- Machine Learning & Clustering ---
+scikit-learn>=1.5.0
+
+# --- Visualisation & LaTeX ---
+matplotlib>=3.9.0
+pylatexenc>=2.10
+
+# --- Support Jupyter ---
+ipykernel
